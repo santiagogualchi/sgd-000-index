@@ -17,9 +17,10 @@ learn from it.
 
 ## Index
 
-1. 
-2. [Meteorite Landings](https://github.com/santiagogualchi/sgd-002-meteorites)
-(in development)
+| # | Topic      | Category | Status         | Repository                                                                  |
+|---|------------|----------|----------------|-----------------------------------------------------------------------------|
+| 1 | Happiness  | Society  | Planned        |                                                                             |
+| 2 | Meteorites | Science  | In development | [sgd-002-meteorites](https://github.com/santiagogualchi/sgd-002-meteorites) |
 
 ## License
 
