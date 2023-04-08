@@ -15,12 +15,21 @@ principles, and all the code used to generate each slide is publicly available
 in separate repositories. This way, anyone interested can examine the code and
 learn from it.
 
+## Project status
+
+The Instagram account has been created but it'll remain private until
+sgd-001-happiness and
+[sgd-002-meteorites](https://github.com/santiagogualchi/sgd-002-meteorites) are
+completed. After launching the Instagram account, posts will be done in a
+monthly basis.
+
 ## Index
 
 | # | Topic      | Category | Status         | Repository                                                                  |
 |---|------------|----------|----------------|-----------------------------------------------------------------------------|
 | 1 | Happiness  | Society  | Planned        |                                                                             |
 | 2 | Meteorites | Science  | In development | [sgd-002-meteorites](https://github.com/santiagogualchi/sgd-002-meteorites) |
+| 3 | ?          | ?        |                |                                                                             |
 
 ## License
 
